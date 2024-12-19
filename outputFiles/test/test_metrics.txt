@@ -1,0 +1,10 @@
+Epoch: 1, MSE: 2.6503, Accuracy: 0.9245, Precision: 0.0000, Recall: 0.0000, F1 Score: 0.0000
+Epoch: 2, MSE: 2.6819, Accuracy: 0.9245, Precision: 0.0000, Recall: 0.0000, F1 Score: 0.0000
+Epoch: 3, MSE: 2.7905, Accuracy: 0.9085, Precision: 0.1667, Recall: 0.0530, F1 Score: 0.0804
+Epoch: 4, MSE: 2.9185, Accuracy: 0.8475, Precision: 0.2722, Recall: 0.6093, F1 Score: 0.3763
+Epoch: 5, MSE: 2.9360, Accuracy: 0.8590, Precision: 0.3009, Recall: 0.6556, F1 Score: 0.4125
+Epoch: 6, MSE: 2.9539, Accuracy: 0.8630, Precision: 0.3164, Recall: 0.7020, F1 Score: 0.4362
+Epoch: 7, MSE: 2.9150, Accuracy: 0.8380, Precision: 0.2895, Recall: 0.7881, F1 Score: 0.4235
+Epoch: 8, MSE: 2.9276, Accuracy: 0.8365, Precision: 0.2934, Recall: 0.8278, F1 Score: 0.4333
+Epoch: 9, MSE: 2.9703, Accuracy: 0.8900, Precision: 0.3883, Recall: 0.7947, F1 Score: 0.5217
+Epoch: 10, MSE: 2.9785, Accuracy: 0.8800, Precision: 0.3760, Recall: 0.8940, F1 Score: 0.5294
