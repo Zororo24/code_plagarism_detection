@@ -4,7 +4,7 @@
 1. Download the git repo via command :
 
 	```bash
-	git clone https://github.com/kartikjoshi267/myGNN.git
+	git clone https://github.com/Zororo24/code_plagarism_detection.git
 	```
 
 	Later go to the folder myGNN by command:
